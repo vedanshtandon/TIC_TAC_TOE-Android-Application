@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tic_Tac_Toe</string>
+    <string name="welcome">      WELCOME TO  TIC -TAC -TOE</string>
+    <string name="grid">our grid</string>
+</resources>
